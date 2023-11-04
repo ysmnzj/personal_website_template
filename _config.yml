@@ -108,22 +108,22 @@ analytics:
 # Site Author
 author:
   name             : ""
-  avatar           : "/assets/images/bio-photo.jpg"
-  bio              : I'm the best student.
+  avatar           : "/assets/images/profile.jpg"
+  bio              : be your best self!
   location         : "تهران"
-  email            : sauleh@gmail.com
+  email            : yasamin421384@gmail.com
   twitter: sauleh_e
   linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
   github: sauleh
-  instagram: saulehe
+  instagram: sauleh
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
-      # url: mailto:your.name@email.com
+      url:  "yasamin421384@gmail.com"
     - label: "Website"
       icon: "fas fa-fw fa-link"
-      # url: "https://your-website.com"
+      url: "https://ysmnzj.github.io/personal_website_template/blog/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       # url: "https://twitter.com/"
@@ -132,13 +132,13 @@ author:
       # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      # url: "https://github.com/"
+      url: "https://ysmnzj.github.io/personal_website_template/blog/"
     - label: "Instagram"
       icon: "fab fa-fw fa-instagram"
       # url: "https://instagram.com/"
     - label: "Telegram"
       icon: "fab fa-telegram"
-      url: "http://t.me/Sauleh"
+      url: "https://t.me/Ysmn_zj"
 
 # Site Footer
 footer:
