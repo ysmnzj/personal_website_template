@@ -84,9 +84,9 @@ naver_site_verification  :
 
 # Social Sharing
 twitter:
-  username               : sauleh_e
+  username               : 
 facebook:
-  username               : sauleh.eetemadi
+  username               :
   app_id                 :
   publisher              :
 og_image                 : # Open Graph/Twitter default site image
@@ -112,11 +112,8 @@ author:
   bio              : be your best self!
   location         : "تهران"
   email            : yasamin421384@gmail.com
-  twitter: sauleh_e
-  linkedin: sauleh
   google_scholar: Q25s5KkAAAAJ
-  github: sauleh
-  instagram: sauleh
+  instagram: ysmn_zj
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
@@ -124,12 +121,6 @@ author:
     - label: "Website"
       icon: "fas fa-fw fa-link"
       url: "https://ysmnzj.github.io/personal_website_template/blog/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      # url: "https://twitter.com/"
-    - label: "Facebook"
-      icon: "fab fa-fw fa-facebook-square"
-      # url: "https://facebook.com/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://ysmnzj.github.io/personal_website_template/blog/"
