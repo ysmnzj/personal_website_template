@@ -5,10 +5,10 @@ permalink: /hobbies/
 title: Hobbies
 tags: [Hoby]
 modified: 9-14-2019
-comments: false
+comments: true
 ---
 
 
-* [BJJ](http://www.bjjheros.com/)
+* [volleyball & work out!]
 
 
