@@ -1,23 +1,22 @@
 # main links
 main:
-  - title: "CV"
-    url: /cv/
-  - title: "Courses"
-    url: /courses/
-  - title: "Friends"
-    url: /friends/
+  - title: "My expriences"
+    url: /my expriences/
   - title: "Links"
     url: /links/
   - title: "Hobbies"
     url: /hobbies/  
   - title: "Gallery"
     url: /gallery/
+<<<<<<< HEAD
   - title: "Blog"
     url: /blog/
   - title: "calender"
     url: /calender/
   - title: "my image"
     url: /my image/
+=======
+>>>>>>> 7b8fd8ff8be82c8b21ce4a05b46c5ccdfb864818
   # - title: "About"
   #   url: https://mmistakes.github.io/minimal-mistakes/about/
   # - title: "Sample Posts"
