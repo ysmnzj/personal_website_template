@@ -1,9 +1,9 @@
 ---
 layout: single
 author_profile: true
-permalink: /My_experiences/
-title: My_experiences
-tags: [My_experiences]
+permalink: /experiences/
+title: experiences
+tags: [experiences]
 modified: 9-14-2019
 comments: true
 ---
